@@ -7,7 +7,7 @@ In order to study and quantify the emotional meaning of non-linguistic utterance
 
 The distribution of ratings gathered from the experiment is shown in the figures below.
 
-![560ExpResults](/images/560ExpREsults.png)
+![560ExpResults](/images/560ExpResults.png)
 
 Scatterplots of predicted vs. actual valence and arousal values are shown in the figures below. The correlation for valence is 0.63 and for arousal 0.75.
 
